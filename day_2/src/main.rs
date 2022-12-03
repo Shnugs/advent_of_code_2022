@@ -1,6 +1,6 @@
+// --- Day 2: Rock Paper Scissors ---
 // https://adventofcode.com/2022/day/2
 
-// --- Day 2: Rock Paper Scissors ---
 // Play Rock, Paper, Scisssors. The rules are:
 // - Rock beats Scissors
 // - Scissors beats Paper
