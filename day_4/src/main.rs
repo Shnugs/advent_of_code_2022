@@ -57,7 +57,7 @@ fn part_one(input: Vec<Vec<Vec<i32>>>) -> i32 {
             true
         }
         else {false}
-    ).count()
+    ).count() as i32
 }
 
 // Counts the number of ranges that intersect
